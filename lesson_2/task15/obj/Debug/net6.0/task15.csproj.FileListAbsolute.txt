@@ -1,0 +1,15 @@
+C:\GB.RU\GB_Basic_Algorithms\lesson_2\task15\bin\Debug\net6.0\task15.exe
+C:\GB.RU\GB_Basic_Algorithms\lesson_2\task15\bin\Debug\net6.0\task15.deps.json
+C:\GB.RU\GB_Basic_Algorithms\lesson_2\task15\bin\Debug\net6.0\task15.runtimeconfig.json
+C:\GB.RU\GB_Basic_Algorithms\lesson_2\task15\bin\Debug\net6.0\task15.dll
+C:\GB.RU\GB_Basic_Algorithms\lesson_2\task15\bin\Debug\net6.0\task15.pdb
+C:\GB.RU\GB_Basic_Algorithms\lesson_2\task15\obj\Debug\net6.0\task15.csproj.AssemblyReference.cache
+C:\GB.RU\GB_Basic_Algorithms\lesson_2\task15\obj\Debug\net6.0\task15.GeneratedMSBuildEditorConfig.editorconfig
+C:\GB.RU\GB_Basic_Algorithms\lesson_2\task15\obj\Debug\net6.0\task15.AssemblyInfoInputs.cache
+C:\GB.RU\GB_Basic_Algorithms\lesson_2\task15\obj\Debug\net6.0\task15.AssemblyInfo.cs
+C:\GB.RU\GB_Basic_Algorithms\lesson_2\task15\obj\Debug\net6.0\task15.csproj.CoreCompileInputs.cache
+C:\GB.RU\GB_Basic_Algorithms\lesson_2\task15\obj\Debug\net6.0\task15.dll
+C:\GB.RU\GB_Basic_Algorithms\lesson_2\task15\obj\Debug\net6.0\refint\task15.dll
+C:\GB.RU\GB_Basic_Algorithms\lesson_2\task15\obj\Debug\net6.0\task15.pdb
+C:\GB.RU\GB_Basic_Algorithms\lesson_2\task15\obj\Debug\net6.0\task15.genruntimeconfig.cache
+C:\GB.RU\GB_Basic_Algorithms\lesson_2\task15\obj\Debug\net6.0\ref\task15.dll
